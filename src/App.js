@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn Patis!
+            Learn Patis! branch
           </a>
         </header>
       </div>
